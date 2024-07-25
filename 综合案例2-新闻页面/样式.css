@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+}
+.gray{
+  color: gray;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  /* 去掉下划线 */
+}
+p{
+   text-indent: 2em;/*首行缩进2个汉字 */
+}
+.search{
+  color: gray;
+}
+.h5{
+font-weight: bold;
+/* 字体粗体 */
+}
+.pic{
+  width: 800px;
+  height: 100%;
+}
+.p1{
+  text-align: center; 
+}  
+.p2{
+  
+  color: gray;
+}
